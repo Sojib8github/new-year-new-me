@@ -1,0 +1,226 @@
+.first-section{
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0;
+    top: 0;
+}
+.first-section-header{
+    color: #FFFFFF;
+    position:absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.first-section-description{
+    color: #FFFFFF;
+    position:absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    margin-top: 40px;
+}
+.btn-primary{
+    color: #005FAC;
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    border: 0;
+    font-size: large;
+    margin-top: 20px;
+
+}
+.first-img{
+    position: absolute;
+    width: 569px;
+    height: 724px;
+    left: 206px;
+    top: 939px;
+
+}
+.img-description{
+    display: flex;
+}
+.img-header{
+    color: black;
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.img-paragraph{
+    color: #444343;
+    position:absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+    margin-top: 50px;
+
+}
+.ul-lists{
+    color: #444343;
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 800px;
+    top: 1416px;
+    list-style-type: none;
+    margin-left: 15px;
+}
+.li-margin{
+    margin: 8px;
+}
+.my-plans-header{
+    color: black;
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 47px;
+    text-align: center;
+    margin-left: -50px;
+}
+.plan-section{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 1141px;
+    height: 203px;
+    left: 230px;
+    top: 1889px;
+    margin-top: 60px;
+}
+.plans-sub-header{
+    font-size: 30px;
+    text-align: center;
+    margin-left: -15px;
+}
+
+.plans-sub-header-web-js{
+    margin-left: -35px;
+    font-size: 30px;
+    text-align: center;
+}
+.plans-paragraph{
+    color: #737272;
+    font-size: 25px;
+    
+}
+.secondary-banner{
+    position: absolute;
+    width: 1150px;
+    height: 300px;
+    left: 230px;
+    top: 2222px;
+    margin-top: 150px;
+    
+}
+.secondary-banner-img{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: -30px;
+
+}
+.secondary-banner-header{
+    color: white;
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-left: -270px;
+
+}
+.secondary-banner-btn{
+    background-color: white;
+    position: absolute;
+    width: 139px;
+    height: 54px;
+    left: 12px;
+    top: 160px;
+    padding-top: 5px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: large;
+    font-family: "Work Sans";
+    
+   
+    
+}
+.footer{
+    background-color: black;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0;
+    top: 2852px;
+}
+.footer-header{
+    position: absolute;
+    color: white;
+    width: 148px;
+    height: 53px;
+    left: 210px;
+    top: 200px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+
+}
+.footer-description{
+    color:white;
+    position: absolute;
+    width: 485px;
+    height: 78px;
+    left: 210px;
+    top: 350px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+}
