@@ -1,3 +1,4 @@
+/* Header Banner Section Styles */
 .first-section{
     position: absolute;
     width: 1600px;
@@ -48,6 +49,9 @@
     margin-top: 20px;
 
 }
+/* End of Header Banner Section Styles */
+
+/* Image and list styles Section */
 .first-img{
     position: absolute;
     width: 569px;
@@ -104,6 +108,9 @@
 .li-margin{
     margin: 8px;
 }
+/* End of Image and list styles Section */
+
+/* My Plans Section Styles */
 .my-plans-header{
     color: black;
     position: absolute;
@@ -145,6 +152,9 @@
     font-size: 25px;
     
 }
+/* End of My Plans Section Styles */
+
+/* Secondary Banner Section Styles */
 .secondary-banner{
     position: absolute;
     width: 1150px;
@@ -187,11 +197,11 @@
     border-radius: 5px;
     margin: 10px;
     font-size: large;
-    font-family: "Work Sans";
-    
-   
-    
+    font-family: "Work Sans";   
 }
+/* End of Secondary Banner Section Styles */
+
+/* Footer Section Styles */
 .footer{
     background-color: black;
     position: absolute;
@@ -276,3 +286,5 @@
     font-family: 'Work Sans';
     background-color: #005FAC;
     color: #FFFFFF;
+}
+/* End of footer Section Styles */
